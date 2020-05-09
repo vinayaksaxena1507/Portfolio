@@ -1,0 +1,25 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayaksaxena1507/My-Portfolio.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Vinayak Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayaksaxena1507/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/vinayaksaxena1507/My-Portfolio#readme",
+  "dependencies": {
+    "three.js": "^0.77.1"
+  }
+}
