@@ -22,15 +22,22 @@
   },
   "homepage": "https://github.com/vinayaksaxena1507/My-Portfolio#readme",
   "dependencies": {
+    "ajax": "0.0.4",
     "animejs": "^3.2.0",
     "bootstrap": "^4.4.1",
+    "chokidar": "^3.4.0",
+    "gsap": "^3.2.6",
     "jquery": "^3.5.1",
+    "jquery-bez": "^1.0.11",
     "lite": "^4.0.5",
+    "particles.js": "^2.0.0",
     "popper": "^1.0.1",
     "server": "^1.0.27",
-    "three.js": "^0.77.1"
+    "three.js": "^0.77.1",
+    "vanillajs": "0.0.0"
   },
   "devDependencies": {
+    "bezier-js": "^2.6.1",
     "lite-server": "^2.5.4"
   }
 }
